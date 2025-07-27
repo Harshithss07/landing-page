@@ -25,7 +25,7 @@ A sleek, modern, and responsive travel landing page built using pure HTML and CS
 
 ## 🧪 Live Preview
 
-🌐 [View Demo](https://harshithss07.github.io/landing-page/)
+🌐 [View Demo](https://harshithss07.github.io/landingpage/)
 
 ---
 
