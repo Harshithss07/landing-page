@@ -1,6 +1,7 @@
 # 🌍 Travel-Z Landing Page
 
-A sleek, modern, and responsive travel landing page built using pure HTML and CSS. Designed to attract travelers with a clean interface, elegant layout, and engaging call-to-action.
+A sleek, modern, and responsive travel landing page built using pure HTML and CSS.
+Designed to attract travelers with a clean interface, elegant layout, and engaging call-to-action.
 
 ---
 ## Preview 
@@ -40,6 +41,6 @@ To run this landing page locally:
 ```bash
 git clone https://github.com/harshithss07/landing-page.git
 cd landing-page
-open index.html  # or just double-click the file
+open index.html   # or just double-click the file
 
 
